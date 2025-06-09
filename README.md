@@ -97,3 +97,18 @@ cd <your-project-directory>
     ```bash
     npm run dev
     ```
+
+#### Example Link
+- Publish and Subscriber
+    - Producer
+        https://github.com/KishorNaik/Sol_Kafka_demo_ExpressJs/blob/main/api/src/modules/producers/apps/features/v1/pubSubDemo/endpoint/index.ts
+    - Consumer
+        https://github.com/KishorNaik/Sol_Kafka_demo_ExpressJs/blob/main/api/src/modules/consumers/apps/features/v1/pubSubDemo/events/index.ts
+- Sender and Receiver
+    - Producer
+        https://github.com/KishorNaik/Sol_Kafka_demo_ExpressJs/blob/main/api/src/modules/producers/apps/features/v1/senderReciverDemo/endpoint/index.ts
+    - Consumer
+        https://github.com/KishorNaik/Sol_Kafka_demo_ExpressJs/blob/main/api/src/modules/consumers/apps/features/v1/senderReciverDemo/events/index.ts
+
+#### Kafka Helper
+- https://github.com/KishorNaik/Sol_Kafka_demo_ExpressJs/tree/main/utils/src/core/shared/utils/helpers/kafka
